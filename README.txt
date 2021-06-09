@@ -2,4 +2,5 @@
 #Testing
 #Some code here is from deeplizard
 
-#updated 5/31
+#cart-pole-2:
+#try deep q learning with state data instead of image data
